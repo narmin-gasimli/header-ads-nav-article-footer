@@ -1,0 +1,73 @@
+.nMain
+{
+    width: 860px;
+    height: 615px;
+}
+.nHeader
+{
+    width: 860px;
+    height: 100px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    float: left;
+}
+.nLeft
+{
+    width: 100px;
+    height: 605px;
+    margin-bottom: 10px;
+    float: left;
+    /* background-color: green; */
+}
+.nAds
+{
+    width: 100px;
+    height: 200px;
+    margin-bottom: 10px;
+    background-color: green;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nNav{
+    width: 100px;
+    height: 395px;
+    background-color: green;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nRight{
+    width: 750px;
+    height: 605px;
+    float:left;
+}
+.nArticle{
+    width: 750px;
+    height: 495px;
+    margin-bottom: 10px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.nFooter
+{
+    width: 750px;
+    height: 100px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.nAll
+{
+    border-radius: 15px;
+}
